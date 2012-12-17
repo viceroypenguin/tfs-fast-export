@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tfs-fast-export", "tfs-fast-export\tfs-fast-export.csproj", "{79274957-5762-4300-B476-363BB0B25C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fast-export", "fast-export\fast-export.csproj", "{13DB56B5-ADE8-4A74-BD68-C809BBDB624A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79274957-5762-4300-B476-363BB0B25C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79274957-5762-4300-B476-363BB0B25C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79274957-5762-4300-B476-363BB0B25C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79274957-5762-4300-B476-363BB0B25C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DB56B5-ADE8-4A74-BD68-C809BBDB624A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DB56B5-ADE8-4A74-BD68-C809BBDB624A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DB56B5-ADE8-4A74-BD68-C809BBDB624A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DB56B5-ADE8-4A74-BD68-C809BBDB624A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
